@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/IFES-Cachoeiro%20de%20Itapemirim-3a7abf?style=flat-square" />
   <img src="https://img.shields.io/badge/IDAF-Espírito%20Santo-3a7abf?style=flat-square" />
   <img src="https://img.shields.io/badge/FAPES-Fundação%20de%20Amparo-e8789c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vigência-2024%20–%202027-3a7abf?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vigência-2024--2027-3a7abf?style=flat-square" />
 </p>
 
 ---
@@ -15,9 +15,9 @@
 
 O **IntegraCAR** é uma iniciativa multi-institucional voltada ao apoio técnico na análise e gestão dos processos do Cadastro Ambiental Rural (CAR) e Simlam no estado do Espírito Santo.
 
-O projeto integra automação de dados, extração automática de informações de documentos, ferramentas de visualização e interoperabilidade com sistemas governamentais — como E-Docs e Simlam — para otimizar o fluxo de trabalho das equipes técnicas envolvidas no processo de regularização ambiental rural. Também produz dados abertos para pesquisa em sensoriamento remoto, como o dataset IntegraCAR-LULC-10K.
+O projeto integra automação de dados, extração automática de informações de documentos, ferramentas de visualização e interoperabilidade com sistemas governamentais, como E-Docs e Simlam, para otimizar o fluxo de trabalho das equipes técnicas envolvidas no processo de regularização ambiental rural. Também produz dados abertos para pesquisa em sensoriamento remoto, como o dataset IntegraCAR-LULC-10K.
 
-Coordenado pelo **IFES Campus Cachoeiro de Itapemirim**, o IntegraCAR reúne parceiros institucionais do governo estadual e agências de fomento à pesquisa, com prazo de execução previsto até **maio de 2027**.
+O IntegraCAR é conduzido por meio de uma parceria entre o **Idaf**, o **Ifes** e a **Seger**, com prazo de execução previsto até **maio de 2027**.
 
 ---
 
@@ -65,9 +65,9 @@ do código é privada; a documentação é aberta.
 
 | Instituição | Papel |
 |---|---|
-| IFES — Instituto Federal do Espírito Santo, Campus Cachoeiro de Itapemirim | Coordenação técnica e desenvolvimento |
-| IDAF — Instituto de Defesa Agropecuária e Florestal do ES | Parceiro operacional |
-| FAPES — Fundação de Amparo à Pesquisa do ES | Fomento à pesquisa |
+| IFES - Instituto Federal do Espírito Santo, Campus Cachoeiro de Itapemirim | Desenvolvimento técnico e pesquisa |
+| IDAF - Instituto de Defesa Agropecuária e Florestal do ES | Parceiro operacional |
+| FAPES - Fundação de Amparo à Pesquisa do ES | Fomento à pesquisa |
 | Governo do Estado do Espírito Santo / SEGER | Parceiro institucional |
 | Inova IFES | Apoio à inovação |
 
@@ -90,6 +90,20 @@ do código é privada; a documentação é aberta.
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+
+---
+
+## Equipe Desenvolvedora
+
+- Arthur Gonçalves
+- Beatriz Ruela
+- Cauã Marvila
+- Eduardo Esquincalha
+- Gabriela Marques
+- Lucas Altoé
+- Mikaela Cantalejo
+- Murilo Cruz
+- Pedro Almeida
 
 ---
 
