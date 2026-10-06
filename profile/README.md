@@ -21,6 +21,19 @@ O IntegraCAR é conduzido por meio de uma parceria entre o **Idaf**, o **Ifes** 
 
 ---
 
+## Processo de trabalho
+
+Etapas do projeto que não são repositórios, mas fazem parte do caminho de um
+processo de CAR.
+
+| Etapa | Descrição | Números |
+|---|---|---|
+| [Digitalização de processos físicos](https://github.com/integraCAR/integracar-docs/blob/main/processos/digitalizacao.md) | Processos CAR em papel transformados em PDF | 424 processos digitalizados |
+| [Autuação no E-Docs](https://github.com/integraCAR/integracar-docs/blob/main/processos/autuacao.md) | Registro dos processos digitalizados no E-Docs e despacho para o grupo IntegraCAR do campus | cerca de 115 processos autuados |
+| [Ações de comunicação](https://github.com/integraCAR/integracar-docs/blob/main/processos/comunicacao.md) | Divulgação do projeto, redes sociais, eventos e materiais | - |
+
+---
+
 ## Repositórios
 
 O link de cada nome leva à **documentação** do sistema, no repositório público
@@ -70,6 +83,9 @@ do código é privada; a documentação é aberta.
 | FAPES - Fundação de Amparo à Pesquisa do ES | Fomento à pesquisa |
 | Governo do Estado do Espírito Santo / SEGER | Parceiro institucional |
 | Inova IFES | Apoio à inovação |
+| SERD | Parceiro |
+| CREA | Parceiro |
+| CRTES | Parceiro |
 
 ---
 
