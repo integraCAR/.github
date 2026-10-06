@@ -17,7 +17,7 @@ O **IntegraCAR** é uma iniciativa multi-institucional voltada ao apoio técnico
 
 O projeto integra automação de dados, extração automática de informações de documentos, ferramentas de visualização e interoperabilidade com sistemas governamentais, como E-Docs e Simlam, para otimizar o fluxo de trabalho das equipes técnicas envolvidas no processo de regularização ambiental rural. Também produz dados abertos para pesquisa em sensoriamento remoto, como o dataset IntegraCAR-LULC-10K.
 
-O IntegraCAR é conduzido por meio de uma parceria entre o **Idaf**, o **Ifes** e a **Seger**, com prazo de execução previsto até **maio de 2027**.
+O IntegraCAR é conduzido por meio de uma parceria entre o **Idaf**, o **Ifes** e a **Fapes**, com prazo de execução previsto até **maio de 2027**.
 
 ---
 
